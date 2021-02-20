@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "math-flash",
+  "version": "1.0.0",
+  "description": "Math based flash cards for my sister",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vacuousVersifer/math-flash.git"
+  },
+  "keywords": [
+    "flash",
+    "cards",
+    "math",
+    "5th"
+  ],
+  "author": "vacuousVersifer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vacuousVersifer/math-flash/issues"
+  },
+  "homepage": "https://github.com/vacuousVersifer/math-flash#readme"
+}
