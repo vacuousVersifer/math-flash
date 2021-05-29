@@ -66,6 +66,10 @@
   font-size: 12px;
   padding: 15px;
 }
+
+td input {
+  width: 5vw;
+}
   
 /* For desktop: */
 .col-1 {
